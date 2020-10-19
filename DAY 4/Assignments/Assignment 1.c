@@ -1,0 +1,1 @@
+// Program to calculate average of numbers in an array

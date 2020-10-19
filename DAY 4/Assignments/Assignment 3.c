@@ -1,0 +1,1 @@
+//Program to find smallest array element in C
