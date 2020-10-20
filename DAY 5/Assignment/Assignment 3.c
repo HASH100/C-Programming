@@ -1,0 +1,1 @@
+//Find the Smallest Element in an array using Pointer
