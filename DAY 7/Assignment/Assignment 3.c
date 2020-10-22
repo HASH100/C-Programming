@@ -1,0 +1,1 @@
+//Make a structure of Employee Details and Display it (EmpName,EmpID,PhoneNo,Address,Salary)
