@@ -1,0 +1,1 @@
+// Apply Random Background color with an interval of 1000
